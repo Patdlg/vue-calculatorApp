@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-<h1>Pat's Calculator</h1>
+<h1>Pat's Calculator App</h1>
   <div class="calculator">
     <div class="display">{{ current || '0'}}</div>
     <div @click="clear" class="btn">C</div>
